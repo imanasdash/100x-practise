@@ -1,0 +1,48 @@
+.color-panel {
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  margin-top: 100vh;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  background-color: white;
+}
+.option{
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: none;
+}
+
+.option:hover{
+  cursor: pointer;
+}
+.red-bg{
+  background-color: red;
+  border: 1px solid black;
+}
+.yellow-bg{
+  background-color: yellow;
+  border: 1px solid black;
+}
+.black-bg{
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+}
+.purple-bg{
+  background-color: purple;
+  border: 1px solid black;
+}
+.green-bg{
+  background-color: green;
+  border: 1px solid black;
+}
+.blue-bg{
+  background-color: blue;
+  border: 1px solid black;
+}
+.bg{
+  background-color: white;
+  border: 1px solid black;
+}
