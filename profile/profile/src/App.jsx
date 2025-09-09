@@ -14,7 +14,7 @@ function App() {
         </div>
         <div className="profile-stats">
           <div>
-            <strong>80K</strong>
+            <strong>800K</strong>
             <span>Followers</span>
           </div>
           <div>
